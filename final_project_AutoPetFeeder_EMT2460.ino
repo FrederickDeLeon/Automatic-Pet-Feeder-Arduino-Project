@@ -1,11 +1,11 @@
 /*** header block ***
  * code file name: final_project_AutoPetFeeder_EMT2460
- * code description: Program to take user inputted time and dispense a 
-   user designated amount of food into a bowl for a pet, such as a dog or cat
+ * code description: Program to take an inputted time and dispense a 
+   user-designated amount of food into a bowl for a pet, such as a dog or cat
  * MCU board used: Arduino MEGA 2560 Microcontroller Development Board
  * IDE version used to test code: Arduino IDE v2.3.2
  * programmer(s) name: Frederick De Leon
- * date when code is created/modified: 10/18/2023
+ * date when code is created/modified: 05/22/2023
  * code version: v2.0 
  ***/
 
